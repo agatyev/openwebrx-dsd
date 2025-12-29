@@ -1,0 +1,3 @@
+sudo mkdir -p /opt/owrx-docker/etc
+sudo mkdir -p /opt/owrx-docker/var
+sudo mkdir -p /opt/owrx-docker/plugins
